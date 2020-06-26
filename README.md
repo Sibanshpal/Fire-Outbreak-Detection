@@ -1,2 +1,4 @@
 # Fire-Outbreak-Detection
 Machine Learning Techniques for Fire Outbreak Detection in WSN (Wireless Sensor Networks)
+
+Abstract: The outbreak of fire is a serious hazard which is very likely to happen, resulting in loss of lives and property. However, it is arguably possible to predict the outbreak of fire. The traditional smoke alarms generally made use of just one sensor and some threshold to trigger the alarm. Smoke is generated in several forms in daily lives and a single parameter is not reliable to detect an outbreak. With that in mind, an array of sensors has also been deployed with appropriate weight and an algorithm of sorts in some smoke alarm systems. However, these algorithms are hardcoded and are based on some predetermined assumptions which can often lead to a false alarm or malfunction. This project mainly focuses on intelligent use of appropriate sensors by deploying learning algorithms and AI techniques to reduce false alarm and increase efficiency.
